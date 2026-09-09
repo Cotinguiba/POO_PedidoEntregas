@@ -97,7 +97,7 @@ public double calcularTotal() {
 src/
  ├── Entrega.java          # Classe Abstrata base
  ├── EntregaNormal.java    # Implementação de Entrega Normal
- ├── EntregaExpressa.java   # Implementação de Entrega Expressa
+ ├── EntregaExpressa.java  # Implementação de Entrega Expressa
  ├── RetiradaNaLoja.java   # Implementação de Retirada na Loja
  ├── EntregaAgendada.java  # Implementação de Entrega Agendada
  ├── Pedido.java           # Classe do Pedido
